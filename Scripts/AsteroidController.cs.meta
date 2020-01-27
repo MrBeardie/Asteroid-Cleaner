@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a8f38fba4c8fae4e80011b3b10295ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - destroy: {fileID: 8300000, guid: 347ae6f03bdc5614ba972d3d4bfc6a65, type: 3}
+  - smallAsteroid: {fileID: 6163627477436719918, guid: 600f6d8ef6b94c349bef8e12948dd08e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
